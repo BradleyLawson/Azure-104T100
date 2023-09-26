@@ -1,4 +1,4 @@
-# Gateway Transit and Connectivity Simplified
+# Gateway Transit and Connectivity 
 
 When you connect virtual networks through peering, you can set up an Azure VPN Gateway in one of the peered networks to act as a transit point. This allows the peered network to use the remote VPN gateway to access other resources.
 

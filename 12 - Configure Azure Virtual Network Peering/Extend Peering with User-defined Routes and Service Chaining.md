@@ -1,4 +1,4 @@
-# Extending Peering with User-Defined Routes and Service Chaining Simplified
+# Extending Peering with User-Defined Routes and Service Chaining 
 
 Virtual network peering is limited to communication within the peering network. To enable traffic between resources and networks outside this private peering, you need additional mechanisms.
 

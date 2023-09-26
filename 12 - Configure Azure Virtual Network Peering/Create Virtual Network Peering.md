@@ -1,4 +1,4 @@
-# Creating Virtual Network Peering Simplified
+# Creating Virtual Network Peering 
 
 Azure Virtual Network peering can be set up for virtual networks using various methods, including PowerShell, Azure CLI, and the Azure portal. In this guide, we focus on creating peering in the Azure portal for virtual networks deployed through Azure Resource Manager.
 
