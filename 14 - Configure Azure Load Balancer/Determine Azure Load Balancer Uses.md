@@ -2,9 +2,7 @@
 
 Azure Load Balancer plays a crucial role in ensuring high availability and optimal network performance for your applications. It efficiently distributes incoming network traffic across your back-end servers and resources, enhancing your application's reliability.
 
-## How Azure Load Balancer Works
-
-![Azure Load Balancer](link_to_image.png)
+## How Azure Load Balancer Works    
 
 Azure Load Balancer operates by managing incoming network traffic through load-balancing rules and health probes. Here's what you need to know:
 
