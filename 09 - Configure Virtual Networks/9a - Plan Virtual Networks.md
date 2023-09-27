@@ -10,7 +10,7 @@ One of the primary advantages of adopting cloud solutions like Azure is the abil
 
 Azure network services provide a range of components with various functionalities and capabilities, including:
 
-![Screenshot that shows the main components of Azure network services.][https://learn.microsoft.com/en-us/training/wwl-azure/configure-virtual-networks/media/network-components-66dff480.png]
+[Add to this later]
 
 ## Key Aspects of Azure Virtual Networks
 
@@ -36,9 +36,4 @@ Consider these scenarios when planning your virtual networks and subnets:
 
 - **Hybrid Cloud**: Virtual networks enable a variety of hybrid cloud scenarios, allowing secure connections between cloud-based applications and on-premises systems, including mainframes and Unix.
 
-![Diagram of a virtual network with a subnet of two virtual machines. The network connects to an on-premises infrastructure and a separate virtual network.](<diagram-url>)
-
 It's essential to carefully plan your virtual network configuration to align with your specific requirements and use cases in Azure.
-
-
-[https://learn.microsoft.com/en-us/training/wwl-azure/configure-virtual-networks/media/network-components-66dff480.png]: <screenshot-url>
